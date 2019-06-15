@@ -1402,8 +1402,8 @@ a.scrollup i:hover {
 
 /* --- Pricing box --- */
 .pricing-box {
-	padding-left:0;
-	padding-right:0;
+	padding-left:20px;
+	padding-right:20px;
 	
 }
 
@@ -1435,7 +1435,7 @@ a.scrollup i:hover {
 }
 
 .pricing-content h2 {
-	background-color:#666;
+	background-color:#08a5e4;
 	color:#FFF;
 	font-size:17px;
 	text-align:center;
@@ -1465,7 +1465,8 @@ a.scrollup i:hover {
 
 .pricing-content ul {
 	list-style:none;
-	margin:25px 0;
+	margin:0px 0;
+	padding-inline-start: 0px;
 }
 
 .pricing-content li {
