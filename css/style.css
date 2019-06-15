@@ -8,6 +8,8 @@
 /* ==== Google font ==== */
 /* --- pe-icon-7-stroke --- */
 
+@import url(https://use.typekit.net/zsf7ptv.css);
+
 body {
     width: 100%;
     height: 100%;
@@ -2084,7 +2086,4 @@ a.btn:focus{
 	.intro-content {
 		padding:250px 0 0;
 	}
-
 }
-
-
