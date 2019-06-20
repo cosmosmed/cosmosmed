@@ -1045,8 +1045,8 @@ Elements
 .cbp .cbp-item {
     z-index: 2;
     display: block;
-    width: 480px; /* default width for blocks */
-    height: 480px; /* default height for blocks */
+    width: 440px; /* default width for blocks */
+    height: 440px; /* default height for blocks */
 }
 
 .cbp-filter-item {
@@ -2333,7 +2333,7 @@ a.btn:focus{
   }
 
   .hexbox {
-	width:100%;
+	width:400px;
 	height:100%;
 	z-index: 100;
 	padding-top: 5%;
@@ -2344,8 +2344,8 @@ a.btn:focus{
 
 /* HEXAGON STARTS HERE */
 .hex {
-	width:150px;
-	height:86px;
+	width:113.5px;
+	height:64.5px;
 	background-color: #ccc;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;			
@@ -2361,7 +2361,7 @@ a.btn:focus{
 }
 		
 	.hex.hex-gap {
-		margin-left: 86px;
+		margin-left: 66px;
 	}
 	
 	.hex a {
