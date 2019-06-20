@@ -41,7 +41,7 @@
 	}
 
 	.hex .corner-1,
-	.hex .corner-2 {
+	.hex .corner-2{
 		position: absolute;
 		top:0;
 		left:0;
@@ -75,7 +75,7 @@
 	}
 	
 	.hex .corner-1:before,
-	.hex .corner-2:before {
+	.hex .corner-2:before{
 		width: 173px;
 		height:	173px;
 	  content: '';
@@ -92,7 +92,6 @@
 		-o-backface-visibility: hidden;	
 		backface-visibility: hidden;				  
 	}			
-	
 
 	.hex .corner-1:before {
 		-webkit-transform: rotate(-60deg) translate(-87px, 0px);

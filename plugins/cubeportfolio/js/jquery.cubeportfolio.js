@@ -1443,7 +1443,7 @@
             t.isAnimating = false;
 
             // default filter for plugin
-            t.defaultFilter = '*';
+            t.defaultFilter = '.solutions';
 
             // registered events (observator & publisher pattern)
             t.registeredEvents = [];

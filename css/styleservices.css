@@ -2335,9 +2335,9 @@ a.btn:focus{
   .hexbox {
 	width:480px;
 	height:100%;
-	position:absolute;
 	z-index: 100;
 	padding-top: 5%;
+	margin: 0 auto;
 }
 
 
@@ -2375,7 +2375,7 @@ a.btn:focus{
 	}
 
 	.hex .corner-1,
-	.hex .corner-2 {
+	.hex .corner-2{
 		position: absolute;
 		top:0;
 		left:0;
@@ -2455,11 +2455,12 @@ a.btn:focus{
 	/* Custom styles*/
 	.hex .inner {		
 		color:#eee;
+		padding-top:5%;
 	}
 	
 	.hex h4 {
 		margin:0;	
-		font-size: 20px;
+		font-size: 17px;
 		color: white;		
 	}
 	
@@ -2481,7 +2482,7 @@ a.btn:focus{
 	}
 	
 	.hex.hex-2 {
-		background: #f5c53c;
+		background: #f24e4e;
 	}
 	
 	.hex.hex-3 {
