@@ -1045,9 +1045,10 @@ Elements
 .cbp .cbp-item {
     z-index: 2;
     display: block;
-    width: 240px; /* default width for blocks */
-    height: 250px; /* default height for blocks */
+    width: 480px; /* default width for blocks */
+    height: 480px; /* default height for blocks */
 }
+
 
 .cbp-filter-item {
 	border-radius: 3px;
@@ -2330,11 +2331,4 @@ a.btn:focus{
 	margin: auto;
 	width: 300px;
 	height: 111px;
-  }
-  .motto {
-	  text-align: center;
-	  color: #1f397c;
-	  z-index:100;
-	  padding-top: 2%;
-	  font-size: 40px;
   }
