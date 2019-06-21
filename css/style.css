@@ -48,6 +48,7 @@ layout
 	#wrapper.boxed {
 		width: 100%;
 	}
+	
 }
 @media (min-width: 768px) {
 	#wrapper.boxed {
@@ -1992,7 +1993,7 @@ a.btn:focus{
 	}
 	
 	.navbar.navbar-custom.navbar-fixed-top {
-		background: transparent;
+		background: white;
 	}
 	
 	.badge.custom-badge {
@@ -2107,7 +2108,7 @@ a.btn:focus{
 #about {
 	width: 100%;
 	height: auto;
-	padding-top: 90px;
+	padding-top: 150px;
   }
   
   #about .dand {
@@ -2335,6 +2336,15 @@ a.btn:focus{
 	  text-align: center;
 	  color: #1f397c;
 	  z-index:100;
-	  padding-top: 2%;
-	  font-size: 40px;
+	  font-size: 3em;
+	  line-height:1em;
+	  margin-top: 5%;
   }
+
+  .founder {
+	  font-size:15px;
+  }
+
+  .center {
+	text-align: center;
+}
