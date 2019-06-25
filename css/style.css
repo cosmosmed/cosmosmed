@@ -2249,7 +2249,7 @@ a.btn:focus{
 	padding: 0;
 	height: 100%;
 	width: 100%;
-	opacity: .5;
+	opacity: .8;
   }
   
   
@@ -2336,7 +2336,7 @@ a.btn:focus{
 	  text-align: center;
 	  color: #1f397c;
 	  z-index:100;
-	  font-size: 3em;
+	  font-size: 2.5em;
 	  line-height:1em;
 	  margin-top: 5%;
   }
